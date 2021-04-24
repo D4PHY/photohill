@@ -1,3 +1,3 @@
 # PhotoHill
 
-## Testing AJAX knowledge by fetching photos from a Gallery API (Pexels)
+See it live at: https://d4phy.github.io/photohill/
